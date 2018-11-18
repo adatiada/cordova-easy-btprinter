@@ -1,0 +1,31 @@
+{
+  "name": "cordova-easy-btprinter",
+  "version": "0.0.1",
+  "description": "A cordova plugin for bluetooth printer for android platform, which support text printing and POS printing.",
+  "cordova": {
+    "id": "cordova-easy-btprinter",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adatiada/cordova-easy-btprinter"
+  },
+  "keywords": [
+    "cordova",
+    "easy",
+    "printer",
+    "bluetooth",
+    "cordova-android",
+    "ecosystem:cordova"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "author": "ferdynans",
+  "license": "MIT"
+}
