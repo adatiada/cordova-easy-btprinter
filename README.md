@@ -1,0 +1,1 @@
+# cordova-easy-btprinter
