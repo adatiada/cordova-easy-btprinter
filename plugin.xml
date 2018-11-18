@@ -29,6 +29,7 @@
             <uses-permission android:name="android.permission.READ_PHONE_STATE" />
         </config-file>
 
+        <lib-file src="src/android/com.datecs.api.jar" arch="device" />
         <source-file src="src/android/com.datecs.api.jar" target-dir="libs" framework="true" />
         <source-file src="src/android/BTPrinter.java" target-dir="src/com/easy/btprinter" />
         <source-file src="src/android/BTSDKWrapper.java" target-dir="src/com/easy/btprinter" />
